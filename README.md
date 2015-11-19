@@ -1,0 +1,2 @@
+# egcdmr
+Prueba práctica EGC 
